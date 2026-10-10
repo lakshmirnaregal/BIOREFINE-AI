@@ -2,6 +2,8 @@
 
 AI-Enabled Digital Biorefinery for Intelligent Sugarcane Waste Valorization.
 
+https://biorefineaidashboardpy-du4bcnraqq3enkmsjmzgk3.streamlit.app/
+
 ## Features
 - Monitors temperature, pH, moisture, pressure, and flow rate.
 - Displays alerts when readings exceed demonstration limits.
