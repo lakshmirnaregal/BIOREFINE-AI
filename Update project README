@@ -1,0 +1,21 @@
+# BIOREFINE AI
+
+AI-Enabled Digital Biorefinery for Intelligent Sugarcane Waste Valorization.
+
+## Features
+- Monitors temperature, pH, moisture, pressure, and flow rate.
+- Displays alerts when readings exceed demonstration limits.
+- Supports simulated and manual sensor readings.
+- Shows process status and parameter trends.
+
+## Installation
+Install the required packages:
+
+`pip install -r requirements.txt`
+
+## Run the Dashboard
+
+`streamlit run biorefine_ai_dashboard.py`
+
+## Note
+This prototype uses simulated or manually entered sensor readings. It is not connected to real industrial sensors or physical actuators.
